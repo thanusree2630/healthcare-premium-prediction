@@ -206,3 +206,11 @@ If you encounter any issues or have questions, please:
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+### Screenshots
+
+#### Application Interface
+![App Interface]([images/app_interface.png](https://github.com/thanusree2630/healthcare-premium-prediction/blob/main/Screenshot%202025-10-22%20003047.png))
+
+#### Prediction Results
+![Prediction Results](images/prediction_results.png)
+
